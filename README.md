@@ -5,5 +5,5 @@ Login UI with Next.js
 * Install dependencies [ npm install ]
 * Run your app [ npm run dev ]
 
-## Backend Screen
+## Login UI
 ![alt text](https://raw.githubusercontent.com/devudit/next-loginui/master/screenshot.png)
